@@ -1,6 +1,6 @@
 <template>
-<CNavbar expand="lg" color-scheme="dark" class="bg-dark">
-  <CContainer fluid>
+<CNavbar expand="lg" color-scheme="dark" class="bg-dark" placement="fixed-top">
+  <CContainer fluid >
     <CNavbarBrand href="#">
           <img src="/images/logo.png" alt="" width="40" height="40"/>
 </CNavbarBrand>

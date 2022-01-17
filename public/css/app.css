@@ -960,6 +960,9 @@ select {
 .top-2 {
   top: 0.5rem;
 }
+.bottom-2 {
+  bottom: 0.5rem;
+}
 .z-0 {
   z-index: 0;
 }
@@ -1411,6 +1414,9 @@ select {
 .p-5 {
   padding: 1.25rem;
 }
+.p-3 {
+  padding: 0.75rem;
+}
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -1499,6 +1505,9 @@ select {
 }
 .pt-8 {
   padding-top: 2rem;
+}
+.pt-3 {
+  padding-top: 0.75rem;
 }
 .text-left {
   text-align: left;
